@@ -15,7 +15,7 @@ Este repositório contém o código-fonte do primeiro desafio do módulo Docker 
 
 ### Resolução
 
-[Link do repositório no Docker Hub]([https://pages.github.com/](https://hub.docker.com/repository/docker/marchesan/fullcycle/general)).
+[Link do repositório no Docker Hub](https://hub.docker.com/repository/docker/marchesan/fullcycle/general).
 
 1. **Pré requisitos:**
    - Possuir o Docker instalado
